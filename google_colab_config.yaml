@@ -1,6 +1,6 @@
-path: "/content/dataset" # dataset root dir
-train: train # train images (relative to 'path')
-val: test # val images (relative to 'path')
+path: "/content/dataset_final"
+train: images/train
+val: images/train 
 
 # Classes
 names:
